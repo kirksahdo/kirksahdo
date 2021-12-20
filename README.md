@@ -42,7 +42,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20tudio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
  
 
 <br/>
