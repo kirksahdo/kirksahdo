@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado como **Técnico em Informática** na <a href="https://www.fundacaomatiasmachline.org.br">Fundação Matias Machline</a>.
 - 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="https://www.uea.edu.br">Universidade do Estado do Amazonas</a>.
-- 💼 &nbsp; Trabalhando como **Bolsista de P&D** na <a href="https://stem.uea.edu.br">Academia STEM</a>
+- 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** no <a href="https://www.itriad.org.br/">Instituo Triad de Pesquisa e Desenvolvimento</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
